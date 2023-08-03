@@ -1,6 +1,9 @@
 # Online-Store-Sales-Analysis
 The "Online Store Sales Analysis" interactive dashboard offers comprehensive insights into the sales performance and customer behavior of the online store for the year 2022. This user-friendly dashboard provides a visually appealing and intuitive interface to explore key sales metrics and customer trends.
 
+![image](https://github.com/NiNja-09/Online-Store-Sales-Analysis/assets/60342946/ecd65713-fa40-49ae-b69c-b43f9ceeaa55)
+
+
 Insights:
 
 Customer Engagement by Age: Customers below the age of 48 are the primary contributors to online orders, indicating that targeting a younger audience could be beneficial for future sales growth.
